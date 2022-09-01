@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siva-Tadi
 - 👀 I’m interested in Data Analysis and BI/BA/PM
 - 🌱 I’m currently learning salesforce, SQL
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on solving biz problems by providing solutions 
 - 📫 How to reach me stadi@flexivan.com
 
 <!---
